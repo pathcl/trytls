@@ -1,3 +1,3 @@
-module github.com/pathcl/testpem
+module github.com/pathcl/trytls
 
 go 1.15
